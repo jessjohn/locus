@@ -1,0 +1,23 @@
+/*   Copyright (c) 7theta. All rights reserved.
+**   The use and distribution terms for this software are covered by the
+**   Eclipse Public License 1.0 (http://www.eclipse.org/legal/epl-v10.html)
+**   which can be found in the LICENSE file at the root of this
+**   distribution.
+**
+**   By using this software in any fashion, you are agreeing to be bound by
+**   the terms of this license.
+**   You must not remove this notice, or any others, from this software.
+*/
+
+body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
+.leaflet-bar { 
+    border: none; 
+    border-radius: 2px;
+    box-shadow: rgba(0, 0, 0, 0.188235) 0px 10px 30px, 
+                rgba(0, 0, 0, 0.227451) 0px 6px 10px;
+}
